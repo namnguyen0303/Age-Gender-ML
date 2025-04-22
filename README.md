@@ -2,6 +2,7 @@
 
 This project explores predicting age (regression) and gender (classification) from image data using two deep learning models: a **Convolutional Neural Network (CNN)** and a **Multilayer Perceptron (MLP)**. It compares performance, training time, and overfitting tendencies across tasks.
 
+Link to download the dataset: https://susanqq.github.io/UTKFace/
 ---
 
 ## 🚀 Models Used
